@@ -1,6 +1,3 @@
-Thanks for downloading this template!
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Mark Jafet - Web Developer and Designer Dude
+Welcome to my personal portfolio website! Here, you will find an overview of my work, skills, and experience as a web developer and designer. This README file will guide you through the structure and content of my site.
